@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test pablish/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/test pablish/"}
 ---
 
 ### Лиска - редиска??
